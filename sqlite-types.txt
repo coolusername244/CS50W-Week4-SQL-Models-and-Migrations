@@ -1,0 +1,5 @@
+- text          city name 
+- numeric       01/04/2011
+- integer       01234
+- real          2.8
+- blob          Binary Large OBjetc (audio files, ...)

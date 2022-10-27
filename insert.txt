@@ -1,0 +1,5 @@
+This will insert a new row into te flights table
+
+INSERT INTO flights
+    (origin, destination, duration)                 provide data for these columns
+    VALUES ("New York", "London", 415);             insert this data into the columns

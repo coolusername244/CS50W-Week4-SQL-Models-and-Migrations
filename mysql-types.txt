@@ -1,0 +1,7 @@
+- char(size)        zipcode = char(5) - min & max length
+- varchar(size)     up to size amount
+- smallint          
+- int
+- bigint
+- float
+- double

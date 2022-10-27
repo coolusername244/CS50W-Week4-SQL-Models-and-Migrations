@@ -1,0 +1,5 @@
+- CHECK             used to check that value falls within constraints - movie rating, must be between 1-5
+- DEFAULT
+- NOT NULL
+- PRIMARY KEY
+- UNIQUE
